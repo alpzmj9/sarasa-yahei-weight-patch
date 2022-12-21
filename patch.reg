@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Microsoft YaHei & Microsoft YaHei UI (TrueType)"="msyh.ttc"
+"Microsoft YaHei Italic & Microsoft YaHei UI Italic (TrueType)"="msyhi.ttc"
+"Microsoft YaHei Bold & Microsoft YaHei UI Bold (TrueType)"="msyhbd.ttc"
+"Microsoft YaHei Bold Italic & Microsoft YaHei UI Bold Italic (TrueType)"="msyhbdi.ttc"
+"Microsoft YaHei Light & Microsoft YaHei UI Light (TrueType)"="msyhl.ttc"
+"Microsoft YaHei Light Italic & Microsoft YaHei UI Light Italic (TrueType)"="msyhli.ttc"
+"Microsoft YaHei Semibold & Microsoft YaHei UI Semibold (TrueType)"="msyhsb.ttc"
+"Microsoft YaHei Semibold Italic & Microsoft YaHei UI Semibold Italic (TrueType)"="msyhsbi.ttc"
+"Microsoft YaHei Extralight & Microsoft YaHei UI Extralight (TrueType)"="msyhxl.ttc"
+"Microsoft YaHei Extralight Italic & Microsoft YaHei UI Extralight Italic (TrueType)"="msyhxli.ttc"
